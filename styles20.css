@@ -1,0 +1,18 @@
+Password{
+    background-color:mediumaquamarine ;
+    text-align: center;
+    border: 9px solid grey;
+    margin: 9px;
+}
+Email address{
+    background-color: aliceblue;
+    text-align: center;
+    border: 9px solid grey;
+    margin: 10px;
+}
+Gender{
+    text-align: center;
+    background-color: beige;
+    border: 9px solid grey;
+    margin: 12px;
+}
